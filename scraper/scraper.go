@@ -4,7 +4,7 @@ import (
 	"github.com/tidwall/gjson"
 	"io/ioutil"
 	"net/http"
-    "strings"
+	"strings"
 )
 
 type Game struct{
