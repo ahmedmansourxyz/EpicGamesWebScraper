@@ -1,8 +1,8 @@
 package main
 
 import (
-	"EpicGamesWebScraper/scraper"
-	"EpicGamesWebScraper/slack"
+	"github.com/ahmedmansourxyz/EpicGamesWebScraper/scraper"
+	"github.com/ahmedmansourxyz/EpicGamesWebScraper/slack"
 	"bufio"
 	"fmt"
 	"os"
