@@ -42,7 +42,7 @@ Requirments:
 
 Now you can simply execute the program, enter your webhook URL and finally specify the rate in which the slack message is sent.
 
-***Please note that the format of input for this rate should be like the following: An integer follOwed by the unit of time. <br> Exmaples: 12 sec, 5 d, 30 min***	
+***Please note that the format of input for this rate should be like the following: An integer followed by the unit of time. <br> Exmaples: 12 sec, 5 d, 30 min***	
 
 ## Screenshot of successful execution of program
 
