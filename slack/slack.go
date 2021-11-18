@@ -1,7 +1,7 @@
 package slack
 
 import (
-    "EpicGamesWebScraper/scraper"
+    "github.com/ahmedmansourxyz/EpicGamesWebScraper/scraper"
     "bytes"
     "encoding/json"
     "errors"
